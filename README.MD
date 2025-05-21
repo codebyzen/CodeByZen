@@ -1,4 +1,4 @@
-Hi i'm CodeByZen. Coder, infosec researcher, enthusiast.
+Hi i'm CodeByZen. Coder, researcher, enthusiast, OSINT-analyst.
 
 I love 💻
 
